@@ -7,7 +7,7 @@
 ![image](https://github.com/willsonlsw/defendTheEgg/tree/master/pics/scene-start.png)
 
 设置界面：
-![image](https://github.com/willsonlsw/defendTheEgg/tree/master/pics/scene-options.png)
+![image](https://github.com/willsonlsw/defendTheEgg/blob/master/pics/scene-options.png)
 
 排名：
 ![image](https://github.com/willsonlsw/defendTheEgg/tree/master/pics/scene-ranking.png)
